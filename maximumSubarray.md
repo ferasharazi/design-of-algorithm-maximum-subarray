@@ -25,12 +25,12 @@ Maximum Subarray: `[4, -1, -2, 1, 5]` with sum **7**.
 ![Figure 1: Subarray Locations](figure1.png)  
 *Possible locations of subarrays: entirely in left/right half or crossing the midpoint.*  
 
-![Figure 2: Crossing Subarray Example](design-of-algorithm-maximum-subarray/figure2.png)  
+![Figure 2: Crossing Subarray Example](figure2.png)  
 *A subarray crossing the midpoint spans from `A[i..mid]` to `A[mid+1..j]`.*  
 
 ### Example Execution  
 For array `[-2, -5, 6, -2, -6, 1, 5, -6]`:  
-![Step-by-Step Solution](design-of-algorithm-maximum-subarray/figure3.png)  
+![Step-by-Step Solution](figure3.png)  
 **Result**: Maximum subarray is `[1, 5]` with sum **6**.  
 
 ---

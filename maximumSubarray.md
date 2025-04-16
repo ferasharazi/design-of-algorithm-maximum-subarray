@@ -22,7 +22,7 @@ Maximum Subarray: `[4, -1, -2, 1, 5]` with sum **7**.
    - Find the maximum subarray crossing the midpoint.  
 3. **Combine**: Return the maximum sum from the three results.  
 
-![Figure 1: Subarray Locations](design-of-algorithm-maximum-subarray/figure1.png)  
+![Figure 1: Subarray Locations](figure1.png)  
 *Possible locations of subarrays: entirely in left/right half or crossing the midpoint.*  
 
 ![Figure 2: Crossing Subarray Example](design-of-algorithm-maximum-subarray/figure2.png)  
